@@ -19,5 +19,5 @@ O site da Alessio's Pizzaria foi criado para oferecer uma experiência de usuár
 - **HTML5**: Estruturação do conteúdo do site.
 - **CSS3**: Estilização e design responsivo.
 
-##Agradecimentos:
+## Agradecimentos:
 - A Isaac Pontes pelas aulas e por disponibilizar os exercícios desse projeto na OneBitCode.
